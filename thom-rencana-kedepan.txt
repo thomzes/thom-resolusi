@@ -5,3 +5,5 @@ RENCANA KEDEPANNYA
 - LARAVEL
   *crud
 - Apa ajalah
+- vue
+- python
