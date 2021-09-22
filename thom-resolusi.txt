@@ -1,2 +1,5 @@
 THOM RESOLUSI
 - Konsisten Belajar Coding
+- a
+- b
+- c
