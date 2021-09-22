@@ -4,4 +4,6 @@ RENCANA KEDEPANNYA
   *crud
 - LARAVEL
   *crud
-- Apa ajalah
+- Angular
+- react
+
