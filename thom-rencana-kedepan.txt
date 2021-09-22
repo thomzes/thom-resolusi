@@ -6,4 +6,5 @@ RENCANA KEDEPANNYA
   *crud
 - Apa ajalah
 - vue
+- react
 - python
