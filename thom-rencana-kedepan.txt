@@ -4,6 +4,7 @@ RENCANA KEDEPANNYA
   *crud
 - LARAVEL
   *crud
-- Angular
+- Apa ajalah
+- vue
 - react
-
+- python
